@@ -1,0 +1,17 @@
+[
+{
+    "name": "kevin",
+    "groups": ["wheel","dev"],
+    "password": "password_one"
+},
+{
+    "name": "lisa",
+    "groups": ["wheel"],
+    "password": "password_two"
+},
+{
+    "name": "jim",
+    "groups": [],
+    "password": "password_three"
+}
+]

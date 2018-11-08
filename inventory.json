@@ -1,0 +1,1 @@
+[{"name": "centos", "groups": ["adm", "wheel", "systemd-journal"], "password": "!!"}, {"name": "user", "groups": ["wheel"], "password": "$6$/p8p5IKH$wELBG9hgAMpSi9Jy6XeYqB.Db4O81V97NN4byANCPmEqgPJsMnZnaBbLpO4nGsiHd/xo9xK2yZl4rFUJcMQly0"}, {"name": "ssm-user", "groups": [], "password": "!!"}]
